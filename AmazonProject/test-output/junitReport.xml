@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="18.431" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="To validate the Amazon Application" name="To validate the cart functionality" time="18.319">
+<system-out><![CDATA[
+Given User navigates to the Homepage........................................passed
+When User select the item and add to the cart...............................passed
+And User verify the item added successfully.................................passed
+When User removes the item added on the cart................................passed
+Then User should verify that the item is removed successfully...............passed
+]]></system-out>
+</testcase>
+</testsuite>
